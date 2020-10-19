@@ -24,7 +24,7 @@ mygit1@outlook.com |
 2014
 >Performed daily operations responsibilities for a German vehicle oriented facility, included: Employee management (daily tasks/routines), scheduling work load, establishing estimates using 3 manufacturer’s parts catalogues, selling work, acquisition of parts, quality control and collecting money. Sold work using conceptual explanations for service necessities with thorough understanding of mechanical and system operation purpose. Priced different vendors for materials acquisition, balanced schedule to meet initial deadlines. Checked out clients, reviewed the invoices and settled discrepancies if any. Set the highest sales record in the 37-year period of the business of $148,000 (with 4 technicians) while executing the sales and management responsibilities exceptionally. Improved client reviews on web based applications and review sites such as Yelp & Google by providing exemplary service.
 
-##### *I.T. Hardware / Software Sales | Compuvest.com*
+##### I.T. Hardware / Software Sales | Compuvest.com
 2010
 >Performed duties of a sales associate, for an internet based computer hardware / software re seller. Answered phones calls and emails with client’s requests, worked closely with the procurement department for obtaining and locating client specified items. Posted advertisements on broker web sites in order to obtain new business and cold called clients in order to establish rapport. Worked with international buyers. 
 
