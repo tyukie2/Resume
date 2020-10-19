@@ -21,7 +21,7 @@ Proffesional Experience
 
 
 # Education / Licenses/ Certificates
----
+
 
 > A.A. Computer Science (Cascadia College 2020 )<br>
 Certificate Java | Html (Cascadia College 2020 )<br>
