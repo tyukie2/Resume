@@ -35,7 +35,7 @@
 
 > A.A. Computer Science (Cascadia College 2020 )<br>
 Certificate Java | Html (Cascadia College 2020 )<br>
-Certificate Python Coding (University of Michigan 2020 )<br>
+Certificate Python Coding (Coursera University of Michigan 2020 )<br>
 Proficient in Office <br>
 Proficient in Solid Works <br>
 Licensed Real Estate Broker <br>
