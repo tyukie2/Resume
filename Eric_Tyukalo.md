@@ -1,5 +1,5 @@
  # Eric Tyukalo
-  <img src="https://github.com/tyukie2/Resume/blob/main/profile.jpg" alt="Profile Picture" width="150">
+  <img src="https://github.com/tyukie2/Resume/blob/main/PROFILE_2.jpg" alt="Profile Picture" width="150">
   
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eric-tyukalo-b046981a6/)
 &nbsp; |
