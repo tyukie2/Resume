@@ -1,10 +1,14 @@
- # Eric Tyukalo
-  <img src="https://github.com/tyukie2/Resume/blob/main/PROFILE_2.jpg" alt="Profile Picture" width="150">
+ 
+ 
+# Eric Tyukalo
+ 
+ <img src="https://github.com/tyukie2/Resume/blob/main/PROFILE_2.jpg" alt="Profile Picture" width="150">
   
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eric-tyukalo-b046981a6/)
-&nbsp; |
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) |
-mygit1@outlook.com |
+ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eric-tyukalo-b046981a6/)
+ &nbsp; |
+
+ [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) |
+ mygit1@outlook.com |
 
 
 
