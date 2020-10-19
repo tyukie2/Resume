@@ -20,10 +20,10 @@ Proffesional Experience
 >Performed duties of a sales associate, for an internet based computer hardware / software re seller. Answered phones calls and emails with client’s requests, worked closely with the procurement department for obtaining and locating client specified items. Posted advertisements on broker web sites in order to obtain new business and cold called clients in order to establish rapport. Worked with international buyers. 
 
 
-Education / Licenses/ Certificates
+# Education / Licenses/ Certificates
 ---
 
-A.A. Computer Science (Cascadia College 2020 )<br>
+> A.A. Computer Science (Cascadia College 2020 )<br>
 Certificate Java | Html (Cascadia College 2020 )<br>
 Certificate Python Coding (University of Michigan 2020 )<br>
 Proficient in Office <br>
