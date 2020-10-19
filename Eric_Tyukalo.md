@@ -38,4 +38,4 @@ Proficient in Solid Works <br>
 Licensed Real Estate Broker <br>
 
 # Technical Skills
->| HTML | CSS | JAVA | C# | JAVASCRIPT | PYTHON | ADOBE |
+>| HTML | CSS | JAVA | C# | JAVASCRIPT | PYTHON | ADOBE | UX DESIGN |
