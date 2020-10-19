@@ -36,3 +36,6 @@ Certificate Python Coding (University of Michigan 2020 )<br>
 Proficient in Office <br>
 Proficient in Solid Works <br>
 Licensed Real Estate Broker <br>
+
+# Technical Skills
+>HTML | CSS | JAVA | C# | JAVASCRIPT | PYTHON
