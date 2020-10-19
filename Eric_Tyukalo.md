@@ -1,4 +1,4 @@
-<img src="https://github.com/tyukie2/Resume/blob/main/profile.jpg" alt="Profile Picture" width="150">
+<img style="border:5px groove" gold; src="https://github.com/tyukie2/Resume/blob/main/profile.jpg" alt="Profile Picture" width="150">
 
 
 # Proffesional Experience
