@@ -6,7 +6,6 @@
   
  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eric-tyukalo-b046981a6/)
  &nbsp; |
-
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) |
  mygit1@outlook.com |
 
