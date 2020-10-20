@@ -1,12 +1,17 @@
+                             
+
  
-  | [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eric-tyukalo-b046981a6/)
- &nbsp; |
- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) |
- mygit1@outlook.com | 
  <h1 align="center"> Eric Tyukalo </h1>
- <p align="center">
- <img src="https://github.com/tyukie2/Resume/blob/main/PROFILE_2.jpg" alt="Profile Picture" width="150"> </p>
-<h1 align="center"> Proffesional Experience </h4>
+ 
+ <p align="center"> <img src="https://github.com/tyukie2/Resume/blob/main/PROFILE_2.jpg" alt="Profile Picture" width="150"> </p>
+ 
+ &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+ | &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eric-tyukalo-b046981a6/)
+ &nbsp; 
+ | &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) &nbsp; |
+ mygit1@outlook.com |
+ 
+ <h1 align="center"> Proffesional Experience </h4>
 
 ##### Service Advisor  | Jaguar Land Rover of Bellevue / Seattle
 2019
