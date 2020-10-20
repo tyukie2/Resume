@@ -1,5 +1,4 @@
  <h1 align="center"> Eric Tyukalo </h1>
- 
  <p align="center"> <img src="https://github.com/tyukie2/Resume/blob/main/PROFILE_2.jpg" alt="Profile Picture" width="150"> </p>
  
  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;| &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eric-tyukalo-b046981a6/) &nbsp; 
@@ -35,5 +34,5 @@ Proficient in Solid Works <br>
 Licensed Real Estate Broker <br>
 
 <h1 align="center"> Technical Skills </h1>
->Programming: | HTML | CSS | JAVA | C# | JAVASCRIPT | PYTHON | ADOBE | <br>
+Programming: | HTML | CSS | JAVA | C# | JAVASCRIPT | PYTHON | ADOBE | <br>
 Design: | UX DESIGN |
