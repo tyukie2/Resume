@@ -27,7 +27,7 @@
 
 <h1 align="center"> Education / Licenses/ Certificates </h1>
 
-> A.A. Computer Science (Cascadia College 2020 )<br>
+Associates (2 year) in Computer Science (Cascadia College 2020 )<br>
 Certificate Java | Html (Cascadia College 2020 )<br>
 Certificate Python Coding (Coursera University of Michigan 2020 )<br>
 Proficient in Office <br>
