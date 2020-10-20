@@ -9,10 +9,6 @@
  [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) |
  mygit1@outlook.com |
 
-
-
-
-
 # Proffesional Experience
 
 ##### Service Advisor  | Jaguar Land Rover of Bellevue / Seattle
