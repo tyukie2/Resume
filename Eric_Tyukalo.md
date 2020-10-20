@@ -25,7 +25,7 @@
 2010
 >Performed duties of a sales associate, for an internet based computer hardware / software re seller. Answered phones calls and emails with client’s requests, worked closely with the procurement department for obtaining and locating client specified items. Posted advertisements on broker web sites in order to obtain new business and cold called clients in order to establish rapport. Worked with international buyers. 
 
-# Education / Licenses/ Certificates
+<h1 align="center"> Education / Licenses/ Certificates </h1>
 
 > A.A. Computer Science (Cascadia College 2020 )<br>
 Certificate Java | Html (Cascadia College 2020 )<br>
@@ -34,6 +34,6 @@ Proficient in Office <br>
 Proficient in Solid Works <br>
 Licensed Real Estate Broker <br>
 
-# Technical Skills
+<h1 align="center"> Technical Skills </h1>
 >Programming: | HTML | CSS | JAVA | C# | JAVASCRIPT | PYTHON | ADOBE | <br>
 Design: | UX DESIGN |
