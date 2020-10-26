@@ -3,7 +3,7 @@
  
  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;  &emsp;| &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/eric-tyukalo-b046981a6/) &nbsp; 
  | &nbsp; [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/) &nbsp; | &nbsp;
- mygit1@outlook.com &nbsp; |
+ :email: mygit1@outlook.com &nbsp; |
  
  ---
  <h1 align="center"> Proffesional Experience </h4>
